@@ -1,3 +1,6 @@
+<h1>Hey, I'm Kiran Panjwani👧 </h1>
+<h2>About Me </h2>
+I am extremely curious to try new and contemporary stuff. <br></br>
 
 - 👀 I’m interested in Website development.
 - 🌱 I’m currently learning front-end development.
