@@ -1,5 +1,7 @@
 <h1>Hey, I'm Kiran Panjwani👧 </h1>
-<h2>About Me </h2>
+![Kiran Panjwani](https://user-images.githubusercontent.com/90326051/163634120-b3bb657c-a246-4807-a968-1c8f8600d8b5.jpg)
+
+
 I am extremely curious to try new and contemporary stuff. <br></br>
 
 - 👀 I’m interested in Website development.
