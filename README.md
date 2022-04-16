@@ -28,6 +28,10 @@
 
 ![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KiranAminPanjwani&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranAminPanjwani&layout=compact&theme=dark)](https://github.com/KiranAminPanjwani/github-readme-stats)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranAminPanjwani&layout=compact&theme=dark" alt="KiranAminPanjwani"/>
+
 
 
 
