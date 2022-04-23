@@ -8,7 +8,7 @@
 <h3>About me,</h3>
 
 I am <b>Kiran Amin Panjwani</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my 2nd year of Bachelor's. I’m a Web designer and Front-end developer living in Karachi, Pakistan. As of now, I am focused on <b>web development and UI/UX designing</b> but still, wish to explore many fields. ⚡
-<br><br>Let's <b>Learn</b>, <b>Grow</b> and <b>Contribute</b> in exciting real-word projects. 
+<br>Let's <b>Learn</b>, <b>Grow</b> and <b>Contribute</b> in exciting real-word projects. 
 <h3 align="center">Tech Enthusiast | Front-end Developer | Open Source Contributor </h3>
    <div align="center">
 
