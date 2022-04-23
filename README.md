@@ -5,11 +5,13 @@
 <img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/163715255-a025d887-bdf0-4801-afd9-929c9d876190.png" >
 
 
+<h3>About me,</h3>
 
 I am <b>Kiran Amin Panjwani</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my 2nd year of Bachelor's. I’m a Web designer and Front-end developer living in Karachi, Pakistan. As of now, I am focused on <b>web development and UI/UX designing</b> but still, wish to explore many fields. ⚡
+<br><br>Let's <b>Learn</b>, <b>Grow</b> and <b>Contribute</b> in exciting real-word projects. 
 <h3 align="center">Tech Enthusiast | Front-end Developer | Open Source Contributor </h3>
    <div align="center">
-Let's <b>Learn</b>, <b>Grow</b> and <b>Contribute</b> in exciting real-word projects. 
+
  <h1 align="center">Connect with me</h1>
 
 <div align="center">
