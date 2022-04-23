@@ -1,4 +1,5 @@
-![Github Readme](https://user-images.githubusercontent.com/90326051/163649769-693ba062-e66d-4455-976f-2a8f9f3e8d28.jpg)
+<!-- ![Github Readme](https://user-images.githubusercontent.com/90326051/163649769-693ba062-e66d-4455-976f-2a8f9f3e8d28.jpg) -->
+![reame1](https://user-images.githubusercontent.com/90326051/164890539-81fd8b24-d6fc-443e-92b3-70e611f20947.png)
 
 
 <h1 align="center" >Hey, I'm <a href="https://www.linkedin.com/in/KiranAminPanjwani/" target="_blank"> Kiran Panjwani </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
