@@ -2,7 +2,7 @@
 
 
 <h1 align="center" >Hey, I'm <a href="https://www.linkedin.com/in/KiranAminPanjwani/" target="_blank"> Kiran Panjwani </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/163715255-a025d887-bdf0-4801-afd9-929c9d876190.png" >
+<img width="45%" align="right"   src="https://user-images.githubusercontent.com/90326051/163715255-a025d887-bdf0-4801-afd9-929c9d876190.png" >
 
 
 <h3>About me,</h3>
