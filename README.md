@@ -5,7 +5,7 @@
   </br>
 <img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/163715255-a025d887-bdf0-4801-afd9-929c9d876190.png" > -->
 
-![MyGithubBanner](https://user-images.githubusercontent.com/90326051/192100716-97909265-9ba7-4f70-b8f6-b1f9f8873758.png)
+![MyGithubBanner](https://user-images.githubusercontent.com/90326051/192113603-d802367b-14e0-462e-9d30-e138caef5898.png)
 
 <!-- <h3>About me,</h3> -->
 <h1 align="center"> About me</h1>
