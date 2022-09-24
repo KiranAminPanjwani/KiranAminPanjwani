@@ -1,19 +1,18 @@
-<!-- ![Github Readme](https://user-images.githubusercontent.com/90326051/163649769-693ba062-e66d-4455-976f-2a8f9f3e8d28.jpg) -->
-<!-- ![reame3](https://user-images.githubusercontent.com/90326051/164890863-be9e1d95-30c6-458e-8bcd-218fd4a7df76.png) -->
-![reame4](https://user-images.githubusercontent.com/90326051/164891150-8bc4a1d8-b9df-4a83-8857-3cf47e320658.png)
-
-
+<!-- 
+![reame4](https://user-images.githubusercontent.com/90326051/164891150-8bc4a1d8-b9df-4a83-8857-3cf47e320658.png) 
 
 <h1 align="center" >Hey, I'm <a href="https://www.linkedin.com/in/KiranAminPanjwani/" target="_blank"> Kiran Panjwani 👋</a>
   </br>
-<img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/163715255-a025d887-bdf0-4801-afd9-929c9d876190.png" >
+<img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/163715255-a025d887-bdf0-4801-afd9-929c9d876190.png" > -->
 
+![MyGithubBanner](https://user-images.githubusercontent.com/90326051/192100716-97909265-9ba7-4f70-b8f6-b1f9f8873758.png)
 
-<h3>About me,</h3>
+<!-- <h3>About me,</h3> -->
+<h1 align="center"> About me</h1>
 
-I am <b>Kiran Amin Panjwani</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my 2nd year of Bachelor's. I’m a Web designer and Front-end developer living in Karachi, Pakistan. As of now, I am focused on <b>web development and UI/UX designing</b> but still, wish to explore many fields. ⚡
-<br>Let's <b>Learn</b>, <b>Grow</b> and <b>Contribute</b> in exciting real-word projects. 
-<h3 align="center">Tech Enthusiast | Front-end Developer | Open Source Contributor </h3>
+I am <b>Kiran Amin Panjwani</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my 3rd year of Bachelor's. I’m a Web designer and Front-end developer living in Karachi, Pakistan. As of now, I am focused on <b>web development and UI/UX designing</b> but still, wish to explore many fields. ⚡
+<br>I ffirmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
+<h3 align="center">Tech Enthusiast | Front-end Developer | Open-Source Contributor </h3>
    <div align="center">
 
  <h1 align="center">Connect with me</h1>
@@ -44,6 +43,10 @@ An energetic learner with a dedication to her passion for learning and growing i
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
     <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+    <img alt="React" src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/> 
+    <img alt="React" src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white"/> 
+    <img alt="React" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/> 
 </p>
 
 
