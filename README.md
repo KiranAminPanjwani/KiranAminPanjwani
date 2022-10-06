@@ -11,8 +11,10 @@
 <!-- <h3>About me,</h3> -->
 <h1 align="center"> About me</h1>
 
-I am <b>Kiran Amin Panjwani</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my 3rd year of Bachelor's. I’m a Web designer and Front-end developer living in Karachi, Pakistan. As of now, I am focused on <b>web development and UI/UX designing</b> but still, wish to explore many fields. ⚡
-<br>I ffirmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
+I am <b>Kiran Amin Panjwani</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my 3rd year of my Bachelor. I’m a Web designer and Front-end developer living in Karachi, Pakistan. As of now, I am focused on <b>web development and UI/UX design</b> but I still wish to explore many fields. ⚡
+
+I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
+
 <h3 align="center">Tech Enthusiast | Front-end Developer | Open-Source Contributor </h3>
    <div align="center">
 
