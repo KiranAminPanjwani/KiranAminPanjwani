@@ -13,7 +13,7 @@
 
 I am <b>Kiran Amin Panjwani</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my 3rd year of my Bachelor. I’m a Web designer and Front-end developer living in Karachi, Pakistan. As of now, I am focused on <b>web development and UI/UX design</b> but I still wish to explore many fields. ⚡
 
-I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
+> ### I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
 
 <h3 align="center">Tech Enthusiast | Front-end Developer | Open-Source Contributor </h3>
    <div align="center">
@@ -32,7 +32,15 @@ I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contribu
 
 <h1>🛠 Technical Skills</h1>
    
-An energetic learner with a dedication to her passion for learning and growing in the real world, who has learned front-end development (HTML,CSS, Bootstrap & basic Javascript). And currently learning Web-development using React, JS and MySQL.
+   <img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/196059543-f26eed56-e331-4211-8c0f-7ec25ab482de.png">
+
+I'm a front-end developer who is enthusiastic about expanding access to open source, developing technology that elevates people, and fostering community. I particularly liked working with the technologies _**Html/CSS, Bootstrap, React.js, and Node.js**_.✨💖 I have also achieved a milestone by contributing to the **Microsoft Academic Content repository**.🎉
+
+I took part in the first-ever **Student Ambassador Bug Bash** where we had to enhance the content and service of Azure Static Web Apps in general in terms of readability and usability.
+
+During the **Student Ambassador Bug Bash**, I discovered **two bugs in the documentation for Microsoft Learn Azure Static Web Apps**. I tried to improve the learning modules by removing any unclear language from the documentation to fill any gaps in the existing Microsoft Learn content. I also highlighted errors that were not clearly explained in the documentation. I improved the user experience by discovering these issues.✌
+
+> ### "Believe you can and you're halfway there!"
 
 **I am always up for open source contributions, let's collaborate together!**
 
@@ -55,6 +63,17 @@ An energetic learner with a dedication to her passion for learning and growing i
 
 Looking for an opportunity to enhance my Web-development skills and utilize my extensive experience in Open-Source Projects by contributing my knowledge, skill, and abilities with full devotion.
 
+
+<h1 align="center">💻 Projects</h1>
+
+
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [LeatherHoard](https://leatherhoard.netlify.app/)     | A basic template for e-commerce website, designed with HTML, CSS and Bootstrap. It is an open-source website.
+| [Randomized Color Lab](https://colors-lab.netlify.app/)     | A React color-guessing project will help beginners understand the basic principles of React.js (components, properties, and hooks).
+| [Work Flash](https://workflash.netlify.app/)     | Do you desire greater exposure for your projects? Do you want others to be able to learn from your project? If the answer is yes, you are in the right place. The "Work Flash" website will assist you in growing your network and showcasing your work to the world. Grow your website to attract more viewers by contributing it to "Work Flash."
+| [Tracker Expense Calculator](https://yellow-dune-0d56eaa00.1.azurestaticapps.net/index.html)     | An easy-to-use budgeting calculator will help users to understand their expenses and manage their money. The budget process depends on an accurate calculation of expenses and revenues (Total Expenses = Net Revenue - Net Income) so that the user can calculate their total expenses. Utilizing our free expense calculator will take control of your spending! I have also contributed this project to Microsoft's Academic Content repository.
+| [Blood Support](http://blood-support.live/)  | Creating a support platform to bridge the gap between donors, patients, blood banks, hospitals and maternity centers, so that they can easily connect with nearby blood donors and blood banks. |
   
 # ⚙️ GitHub Analytics
   
