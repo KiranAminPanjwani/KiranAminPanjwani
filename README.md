@@ -91,7 +91,8 @@ Looking for an opportunity to enhance my Web-development skills and utilize my e
 
 
 # 📈 Contribution Graph  
- [![Kiran Panjwani's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KiranAminPanjwani&&theme=xcode)](https://github.com/KiranAminPanjwani)
+
+[![KiranAminPanjwani github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KiranAminPanjwani&theme=react-dark)](https://github.com//github-readme-activity-graph)
 
  </div>
 
