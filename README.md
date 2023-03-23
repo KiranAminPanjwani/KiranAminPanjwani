@@ -76,6 +76,10 @@ Looking for an opportunity to enhance my Web-development skills and utilize my e
 | [Tracker Expense Calculator](https://yellow-dune-0d56eaa00.1.azurestaticapps.net/index.html)     | An easy-to-use budgeting calculator will help users to understand their expenses and manage their money. The budget process depends on an accurate calculation of expenses and revenues (Total Expenses = Net Revenue - Net Income) so that the user can calculate their total expenses. Utilizing our free expense calculator will take control of your spending! I have also contributed this project to Microsoft's Academic Content repository.
 | [Blood Support](http://blood-support.live/)  | Creating a support platform to bridge the gap between donors, patients, blood banks, hospitals and maternity centers, so that they can easily connect with nearby blood donors and blood banks. |
   
+
+# 🏆 HacktoberFesi 2022 Badges
+[![An image of @kiranpanjwani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kiranpanjwani)](https://holopin.io/@kiranpanjwani)
+   
 # ⚙️ GitHub Analytics
   
 <table>
