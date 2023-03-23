@@ -77,7 +77,7 @@ Looking for an opportunity to enhance my Web-development skills and utilize my e
 | [Blood Support](http://blood-support.live/)  | Creating a support platform to bridge the gap between donors, patients, blood banks, hospitals and maternity centers, so that they can easily connect with nearby blood donors and blood banks. |
   
 
-# 🏆 HacktoberFesi 2022 Badges
+# 🏆 HacktoberFest 2022 Badges
 [![An image of @kiranpanjwani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kiranpanjwani)](https://holopin.io/@kiranpanjwani)
    
 # ⚙️ GitHub Analytics
