@@ -6,7 +6,8 @@
 <img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/163715255-a025d887-bdf0-4801-afd9-929c9d876190.png" > -->
 
 <!-- ![MyGithubBanner](https://user-images.githubusercontent.com/90326051/192113603-d802367b-14e0-462e-9d30-e138caef5898.png) -->
-![MyGithubBanner2](https://user-images.githubusercontent.com/90326051/192113903-81572038-cef5-47a9-b281-7d6e51889a38.png)
+![GitHubBanner](https://github.com/KiranAminPanjwani/KiranAminPanjwani/assets/90326051/4ba4e89c-4670-4b43-a12e-c635d9a6a16f)
+
 
 <!-- <h3>About me,</h3> -->
 <h1 align="center"> About me</h1>
