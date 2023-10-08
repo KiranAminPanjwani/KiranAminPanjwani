@@ -80,6 +80,9 @@ Looking for an opportunity to enhance my Web-development skills and utilize my e
 
 # 🏆 HacktoberFest 2022 Badges
 [![An image of @kiranpanjwani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kiranpanjwani)](https://holopin.io/@kiranpanjwani)
+
+<h2 align="left">Support My Work:</h2>
+<p><a href="https://www.buymeacoffee.com/kiranpanjwani220"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KiranAminPanjwani" /></a></p><br><br>
    
 # ⚙️ GitHub Analytics
   
