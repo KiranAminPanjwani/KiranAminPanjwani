@@ -26,6 +26,8 @@ I am <b>Kiran Amin Panjwani</b> pursuing my <b>Computer Science Degree</b> from 
 <a href="https://github.com/KiranAminPanjwani" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:kiranpanjwani220@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://twitter.com/KIRANPANJWANI7?t=3SlrdeoIF-cEzwKNeSS9vw&s=09" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+
+![Discord](https://img.shields.io/badge/@kiran__6018-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 </div>
 
  
