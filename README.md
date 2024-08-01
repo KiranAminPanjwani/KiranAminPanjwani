@@ -6,13 +6,14 @@
 <img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/163715255-a025d887-bdf0-4801-afd9-929c9d876190.png" > -->
 
 <!-- ![MyGithubBanner](https://user-images.githubusercontent.com/90326051/192113603-d802367b-14e0-462e-9d30-e138caef5898.png) -->
-![GitHubBanner](https://github.com/KiranAminPanjwani/KiranAminPanjwani/assets/90326051/4ba4e89c-4670-4b43-a12e-c635d9a6a16f)
+![GitHubBanner](https://github.com/user-attachments/assets/e8246af6-b8cd-49bb-9839-79c6c2d1e1c0)
+
 
 
 <!-- <h3>About me,</h3> -->
 <h1 align="center"> About me</h1>
 
-I am <b>Kiran Amin Panjwani</b> pursuing my <b>Computer Science Degree</b> from DHA Suffa University, Currently in my 3rd year of my Bachelor. I’m a Web designer and Front-end developer living in Karachi, Pakistan. As of now, I am focused on <b>web development and UI/UX design</b> but I still wish to explore many fields. ⚡
+I am <b>Kiran Amin Panjwani</b>, a <b>Computer Science</b> graduate from DHA Suffa University. I began my career as a web designer and front-end developer and am now working in the DevOps domain. Based in Karachi, Pakistan, I am currently focused on learning and sharing concepts related to DevOps, including Azure and AWS.⚡
 
 > ### I firmly believe in <b>Learning</b>, <b>Building</b> new things, and <b>Contributing</b> to worthwhile real-world projects.❤
 
@@ -37,7 +38,7 @@ I am <b>Kiran Amin Panjwani</b> pursuing my <b>Computer Science Degree</b> from 
    
    <img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/196059543-f26eed56-e331-4211-8c0f-7ec25ab482de.png">
 
-I'm a front-end developer who is enthusiastic about expanding access to open source, developing technology that elevates people, and fostering community. I particularly liked working with the technologies _**Html/CSS, Bootstrap, React.js, and Node.js**_.✨💖 I have also achieved a milestone by contributing to the **Microsoft Academic Content repository**.🎉
+Throughout my journey as a front-end developer, I always remained passionate about expanding access to open source, creating technology that uplifted people, and nurturing community development. I particularly liked working with the technologies _**Html/CSS, Bootstrap, React.js, and Node.js**_.✨💖 I have also achieved a milestone by contributing to the **Microsoft Academic Content repository**.🎉
 
 I took part in the first-ever **Student Ambassador Bug Bash** where we had to enhance the content and service of Azure Static Web Apps in general in terms of readability and usability.
 
