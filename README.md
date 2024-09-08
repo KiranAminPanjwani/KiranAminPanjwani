@@ -6,7 +6,8 @@
 <img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/163715255-a025d887-bdf0-4801-afd9-929c9d876190.png" > -->
 
 <!-- ![MyGithubBanner](https://user-images.githubusercontent.com/90326051/192113603-d802367b-14e0-462e-9d30-e138caef5898.png) -->
-![GitHubBanner](https://github.com/user-attachments/assets/e8246af6-b8cd-49bb-9839-79c6c2d1e1c0)
+
+![GitHub Banner](https://github.com/user-attachments/assets/b3a17b77-caed-43df-ab97-ff70cfdc6b56)
 
 
 
